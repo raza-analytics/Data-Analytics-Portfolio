@@ -1,6 +1,6 @@
 # My Data Analytics Portfolio
 
-## 1. ☕ 365 Coffee Cafe Analytics
+## 1. ☕ 365 Coffee Sales Analytics
 This interactive dashboard transforms raw transactional data into actionable business insights to drive operational efficiency and growth.
 ### 🖼️ Visual Preview: 
 **[365 Coffee Cafe Analytics]**  
