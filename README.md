@@ -7,7 +7,7 @@ This interactive dashboard transforms raw transactional data into actionable bus
 ### 🎯 Problem Statement & Objective:
 The cafe sector generates massive amounts of raw transactional data that often remains underutilized[cite: 1]. The objective of this project was to analyze sales patterns, identify peak operational hours, and evaluate product category performance to turn business data into decision-ready visuals.
 ### 🛠️ Tools Used:
-**Microsoft Excel:** Primary tool for data processing and visualization.  
+**Microsoft Excel:** Primary tool for data processing and visualization.
 **Pivot Tables & KPI Metrics:** Used for data summarization and performance tracking[cite: 1].
 ### 📊 Dataset & Methods:
 **Data Source:** Cafe Sector Dataset containing raw transaction records[cite: 1].
