@@ -1,5 +1,33 @@
 # My Data Analytics Portfolio
 
+## 1. 🛒 Super Store Sales & Forecasting Dashboard
+A comprehensive Business Intelligence solution that transforms historical sales data into actionable strategies and 15-day revenue forecasts.
+## 🖼️ Visual Preview:
+**Super Store Sales Dashboard**
+<img width="1288" height="725" alt="Super Store Sales Dashboard" src="https://github.com/user-attachments/assets/11ab525f-69f3-4692-952a-edcc805c5ddf" />
+**Super Store Sales Forecast**
+<img width="1288" height="725" alt="Super Store Sales Forecast" src="https://github.com/user-attachments/assets/91746fd4-e364-4b53-99d0-782ff687c9f1" />
+## 🎯 Problem Statement & Objective:
+Businesses often struggle to identify hidden sales patterns and profit leakages within large datasets. The objective of this project was to create a dashboard that not only visualizes past performance—analyzing $1.6M in sales—but also prepares the business for future trends through time-series forecasting.
+## 🛠️ Tools Used:
+**Power BI:** Primary tool used for building the comprehensive BI dashboard and dark-themed UI.
+**Time Series Forecasting:** Utilized for predicting sales trends to assist in inventory planning.
+**Interactive Filters:** Implemented for Region and Category deep-dives.
+## 📊 Dataset & Methods:
+**Data Source:** Historical business data from 2019-2020 covering 22K orders.
+**ETL & Modeling:** Processed raw numbers into executive metrics, including a focus on Average Shipping Time (4 days).
+**Forecasting:** Developed a 15-day sales forecast model to move from descriptive to predictive analytics.
+**Design:** Focused on a clean, professional dark-themed layout optimized for stakeholder scannability.
+## 💡 Key Insights & Business Impact:
+**High-Level Performance:** Analyzed a total of $1.6M in Sales and $175K in Profit.
+**Geographic Strengths:** Identified California as the leading state with $0.34M in sales.
+**Segment Trends:** The Consumer Segment drives 48% of the business volume.
+**Payment Preferences:** Cash on Delivery (COD) is the most preferred method at 43%.
+**Category Leaders:** Office Supplies lead in overall volume ($0.64M), while Phones and Chairs drive the most sub-category revenue.
+## 📥 Contact:
+**Email:** [mraza28067@gmail.com]  
+**WhatsApp:** [+92-336-1890356]
+
 ## 2. 🛒 E-Commerce Sales BI Dashboard
 An interactive Business Intelligence solution designed to track seasonal trends, regional performance, and product profitability to guide strategic inventory and pricing decisions.  
 ### 🖼️ Visual Preview:
