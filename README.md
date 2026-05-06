@@ -2,29 +2,29 @@
 
 ## 1. 🛒 Super Store Sales & Forecasting Dashboard
 A comprehensive Business Intelligence solution that transforms historical sales data into actionable strategies and 15-day revenue forecasts.
-## 🖼️ Visual Preview:
+### 🖼️ Visual Preview:
 **Super Store Sales Analysis**
 <img width="1288" height="725" alt="Super Store Sales Dashboard" src="https://github.com/user-attachments/assets/11ab525f-69f3-4692-952a-edcc805c5ddf" />
 **Super Store Sales Forecast**
 <img width="1288" height="725" alt="Super Store Sales Forecast" src="https://github.com/user-attachments/assets/91746fd4-e364-4b53-99d0-782ff687c9f1" />
-## 🎯 Problem Statement & Objective:
+### 🎯 Problem Statement & Objective:
 Businesses often struggle to identify hidden sales patterns and profit leakages within large datasets. The objective of this project was to create a dashboard that not only visualizes past performance—analyzing $1.6M in sales—but also prepares the business for future trends through time-series forecasting.
-## 🛠️ Tools Used:
+### 🛠️ Tools Used:
 **Power BI:** Primary tool used for building the comprehensive BI dashboard and dark-themed UI.  
 **Time Series Forecasting:** Utilized for predicting sales trends to assist in inventory planning.  
 **Interactive Filters:** Implemented for Region and Category deep-dives.
-## 📊 Dataset & Methods:  
+### 📊 Dataset & Methods:  
 **Data Source:** Historical business data from 2019-2020 covering 22K orders.  
 **ETL & Modeling:** Processed raw numbers into executive metrics, including a focus on Average Shipping Time (4 days).  
 **Forecasting:** Developed a 15-day sales forecast model to move from descriptive to predictive analytics.  
 **Design:** Focused on a clean, professional dark-themed layout optimized for stakeholder scannability.
-## 💡 Key Insights & Business Impact:  
+### 💡 Key Insights & Business Impact:  
 **High-Level Performance:** Analyzed a total of $1.6M in Sales and $175K in Profit.  
 **Geographic Strengths:** Identified California as the leading state with $0.34M in sales.  
 **Segment Trends:** The Consumer Segment drives 48% of the business volume.  
 **Payment Preferences:** Cash on Delivery (COD) is the most preferred method at 43%.  
 **Category Leaders:** Office Supplies lead in overall volume ($0.64M), while Phones and Chairs drive the most sub-category revenue.
-## 📥 Contact:
+### 📥 Contact:
 **Email:** [mraza28067@gmail.com]  
 **WhatsApp:** [+92-336-1890356]
 
@@ -48,7 +48,7 @@ E-commerce businesses often face profit volatility and struggle to align quantit
 **Regional Powerhouses:** Maharashtra ($102K) and Madhya Pradesh ($87K) were identified as the top revenue-contributing states.  
 **Profitability Gap:** While Clothing accounted for 63% of quantity sold, high-margin products like Printers ($8.6K profit) and Bookcases ($6.5K profit) were identified as the true profitability drivers.  
 **Consumer Trust:** Data revealed that 44% of customers prefer Cash on Delivery, highlighting a specific trust pattern compared to the 21% using UPI.  
-### Contact:
+### 📥 Contact:
 **Email:** [mraza28067@gmail.com]  
 **WhatsApp:** [+92-336-1890356]
 
@@ -64,7 +64,7 @@ Coffee shop businesses often struggle to interpret high-volume transaction data 
 **Power Query Editor:** Used for robust data connection and automated cleaning.  
 **Power Pivot:** Leveraged to enhance the data modeling workflow.  
 **Excel Developer Tools:** Utilized for advanced interactivity and dashboard features.
-## 📊 Dataset & Methods: 
+### 📊 Dataset & Methods: 
 **Data Cleaning:** Used Power Query to remove unnecessary white spaces and handle data transformations.  
 **Workflow:** Executed the complete Data Analytics Workflow, moving from raw transaction data to cleaned tables and finally to a dynamic visual layer.  
 **Visualization:** Implemented a variety of charts (Line, Bar, Clustered Column, and Pie) to represent different business dimensions.  
@@ -74,7 +74,7 @@ Coffee shop businesses often struggle to interpret high-volume transaction data 
 **Peak Operations:** Pinpointed the 8 AM – 10 AM morning rush as the peak order time.  
 **Product Performance:** Barista Espresso emerged as the top-selling product, while Coffee & Tea was the highest revenue category.  
 **Upselling Opportunity:** Identified that Saturday is the lowest sales day and average orders are below expectations, suggesting a need for targeted upselling strategies.  
-### Contact:
+### 📥 Contact:
 **Email:** [mraza28067@gmail.com]  
 **WhatsApp:** [+92-336-1890356]
 
@@ -88,7 +88,7 @@ The cafe sector generates massive amounts of raw transactional data that often r
 ### 🛠️ Tools Used:
 **Microsoft Excel:** Primary tool for data processing and visualization.  
 **Pivot Tables & KPI Metrics:** Used for data summarization and performance tracking.  
-## 📊 Dataset & Methods: 
+### 📊 Dataset & Methods: 
 **Data Source:** Cafe Sector Dataset containing raw transaction records.  
 **ETL:** Data cleaning and structuring within Excel.  
 **Analysis:** Calculation of CAGR-based monthly growth rates and time-based performance deep dives.  
@@ -98,6 +98,6 @@ The cafe sector generates massive amounts of raw transactional data that often r
 **Operational Optimization:** Identified 7:00 AM to 10:00 AM as the peak activity window, representing the highest transaction volume.  
 **Core Revenue Drivers:** Coffee, Tea, and Bakery categories account for approximately 126,661 transactions (~85%).  
 **Targeted Growth Opportunity:** Analysis revealed that the Branded category is underperforming in the Tipu Sultan Area, contributing only 15.93% of total transactions.  
-### Contact:  
+### 📥 Contact:
 **Email:** [mraza28067@gmail.com]  
 **WhatsApp:** [+92-336-1890356]
