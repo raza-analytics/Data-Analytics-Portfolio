@@ -13,7 +13,7 @@ DemonstratedData Cleaning: Structuring raw transactional data for analysis.
 Advanced Excel: Utilization of Pivot Tables, KPI Metrics, and complex Formulas (CAGR calculations).  
 Data Visualization: Designing a decision-ready dashboard with interactive charts.
 Performance Analysis: Time-based (Hourly/Weekly) and Category-wise deep dives.  
-![365 Coffee Cafe Analytics](<img width="1650" height="1275" alt="365 Coffee Cafe Analytics_page-0001" src="https://github.com/user-attachments/assets/b107604a-4ab9-453f-adb6-98d75f9b787b" />
+![365 Coffee Cafe Analytics]([<img width="1650" height="1275" alt="365 Coffee Cafe Analytics_page-0001" src="https://github.com/user-attachments/assets/b107604a-4ab9-453f-adb6-98d75f9b787b" />](https://github.com/raza-analytics/Data-Analytics-Portfolio/blob/main/365%20Coffee%20Cafe%20Analytics.pdf)
 )
 
 ## 2. Ecommerce Sales Dashboard
