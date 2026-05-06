@@ -1,5 +1,29 @@
 # My Data Analytics Portfolio
 
+## 2. 🛒 E-Commerce Sales BI Dashboard
+An interactive Business Intelligence solution designed to track seasonal trends, regional performance, and product profitability to guide strategic inventory and pricing decisions.  
+### 🖼️ Visual Preview:
+**Ecommerce Sales Dashboard**
+<img width="1400" height="787" alt="Ecommerce Sales Dashboard" src="https://github.com/user-attachments/assets/496719cf-dbd3-4e4f-843e-8c656c55aadf" />
+### 🎯 Problem Statement & Objective:
+E-commerce businesses often face profit volatility and struggle to align quantity sold with actual profit margins. This project was developed to identify seasonal fluctuations—such as the dip in profitability during May—and to provide a clear view of regional leaders and payment preferences for smarter resource allocation.
+### 🛠️ Tools Used:
+Power BI: Primary tool for data modeling and interactive visualization.  
+Calculated Measures: Developed custom KPIs including Profit and Average Order Value (AOV).  
+Data Slicers: Implemented dynamic filters for Quarters and States to allow for granular analysis.  
+### 📊 Dataset & Methods:
+Data Modeling: Established structured table relationships and joins to ensure data integrity.  
+ETL Workflow: Conducted an end-to-end BI workflow involving data cleaning, modeling, and strategic visualization.  
+Visual Techniques: Applied a variety of charts, including Donut, Clustered Bar, Line/Area charts, and Geographic maps for regional tracking.  
+### 💡 Key Insights & Business Impact:
+**Profit Volatility:** Identified a significant seasonal gap, with a peak profit of $10.3K in November contrasted against a loss of -$3.7K in May.  
+**Regional Powerhouses:** Maharashtra ($102K) and Madhya Pradesh ($87K) were identified as the top revenue-contributing states.  
+**Profitability Gap:** While Clothing accounted for 63% of quantity sold, high-margin products like Printers ($8.6K profit) and Bookcases ($6.5K profit) were identified as the true profitability drivers.  
+**Consumer Trust:** Data revealed that 44% of customers prefer Cash on Delivery, highlighting a specific trust pattern compared to the 21% using UPI.  
+### Contact:
+**Email:** [mraza28067@gmail.com]  
+**WhatsApp:** [+92-336-1890356]
+
 ## 3. ☕ Coffee Shop Sales Analysis
 An interactive analytical solution that transforms raw transaction data into actionable insights to optimize operational decisions and understand customer behavior.
 ### 🖼️ Visual Preview:
