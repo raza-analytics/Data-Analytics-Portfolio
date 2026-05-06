@@ -8,13 +8,13 @@ An interactive Business Intelligence solution designed to track seasonal trends,
 ### 🎯 Problem Statement & Objective:
 E-commerce businesses often face profit volatility and struggle to align quantity sold with actual profit margins. This project was developed to identify seasonal fluctuations—such as the dip in profitability during May—and to provide a clear view of regional leaders and payment preferences for smarter resource allocation.
 ### 🛠️ Tools Used:
-Power BI: Primary tool for data modeling and interactive visualization.  
-Calculated Measures: Developed custom KPIs including Profit and Average Order Value (AOV).  
-Data Slicers: Implemented dynamic filters for Quarters and States to allow for granular analysis.  
+**Power BI:** Primary tool for data modeling and interactive visualization.  
+**Calculated Measures:** Developed custom KPIs including Profit and Average Order Value (AOV).  
+**Data Slicers:** Implemented dynamic filters for Quarters and States to allow for granular analysis.  
 ### 📊 Dataset & Methods:
-Data Modeling: Established structured table relationships and joins to ensure data integrity.  
-ETL Workflow: Conducted an end-to-end BI workflow involving data cleaning, modeling, and strategic visualization.  
-Visual Techniques: Applied a variety of charts, including Donut, Clustered Bar, Line/Area charts, and Geographic maps for regional tracking.  
+**Data Modeling:** Established structured table relationships and joins to ensure data integrity.  
+**ETL Workflow:** Conducted an end-to-end BI workflow involving data cleaning, modeling, and strategic visualization.  
+**Visual Techniques:** Applied a variety of charts, including Donut, Clustered Bar, Line/Area charts, and Geographic maps for regional tracking.  
 ### 💡 Key Insights & Business Impact:
 **Profit Volatility:** Identified a significant seasonal gap, with a peak profit of $10.3K in November contrasted against a loss of -$3.7K in May.  
 **Regional Powerhouses:** Maharashtra ($102K) and Madhya Pradesh ($87K) were identified as the top revenue-contributing states.  
