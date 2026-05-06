@@ -1,6 +1,6 @@
 # My Data Analytics Portfolio
 
-## 1. ☕ 365 Coffee Sales Analytics
+## 4. ☕ 365 Coffee Sales Analytics
 This interactive dashboard transforms raw transactional data into actionable business insights to drive operational efficiency and growth.
 ### 🖼️ Visual Preview: 
 **365 Coffee Cafe Analytics**  
@@ -24,8 +24,3 @@ The cafe sector generates massive amounts of raw transactional data that often r
 ### Contact:  
 **Email:** mraza28067@gmail.com  
 **WhatsApp:** +92-336-1890356
-
-## 2. Ecommerce Sales Dashboard
-Is dashboard mein profit by month aur customer segments dikhaye gaye hain.
-![Ecommerce Preview](Ecommerce_Dashboard_Screenshot.png)
-[View Full PDF Report](./Ecommerce_Project.pdf)
