@@ -3,8 +3,8 @@
 ## 1. ☕ 365 Coffee Sales Analytics
 This interactive dashboard transforms raw transactional data into actionable business insights to drive operational efficiency and growth.
 ### 🖼️ Visual Preview: 
-**[365 Coffee Cafe Analytics]**  
-(<img width="1549" height="810" alt="365 Coffee Cafe Analytics" src="https://github.com/user-attachments/assets/2441efde-8fbf-419d-82f1-141247ecccee" />)
+**365 Coffee Cafe Analytics**  
+<img width="1549" height="810" alt="365 Coffee Cafe Analytics" src="https://github.com/user-attachments/assets/2441efde-8fbf-419d-82f1-141247ecccee" />
 ### 🎯 Problem Statement & Objective:
 The cafe sector generates massive amounts of raw transactional data that often remains underutilized[cite: 1]. The objective of this project was to analyze sales patterns, identify peak operational hours, and evaluate product category performance to turn business data into decision-ready visuals.
 ### 🛠️ Tools Used:
