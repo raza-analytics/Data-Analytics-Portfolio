@@ -4,6 +4,7 @@
 An interactive analytical solution that transforms raw transaction data into actionable insights to optimize operational decisions and understand customer behavior.
 ### 🖼️ Visual Preview:
 **Coffee Shop Sales Dashboard**
+<img width="1503" height="671" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/d460569f-7753-4dd2-afe1-fcb9c4a13cd2" />
 ### 🎯 Problem Statement & Objective:
 Coffee shop businesses often struggle to interpret high-volume transaction data to identify peak hours and underperforming segments. This project aims to bridge that gap by building a dynamic dashboard that visualizes sales performance, footfall trends, and customer behavior metrics to support data-driven business decisions.
 ### 🛠️ Tools Used:
@@ -11,7 +12,7 @@ Coffee shop businesses often struggle to interpret high-volume transaction data 
 **Power Query Editor:** Used for robust data connection and automated cleaning.  
 **Power Pivot:** Leveraged to enhance the data modeling workflow.  
 **Excel Developer Tools:** Utilized for advanced interactivity and dashboard features.
-### 📊 Dataset & Methods:
+### 📊 Methods:
 **Data Cleaning:** Used Power Query to remove unnecessary white spaces and handle data transformations.  
 **Workflow:** Executed the complete Data Analytics Workflow, moving from raw transaction data to cleaned tables and finally to a dynamic visual layer.  
 **Visualization:** Implemented a variety of charts (Line, Bar, Clustered Column, and Pie) to represent different business dimensions.  
@@ -35,9 +36,7 @@ The cafe sector generates massive amounts of raw transactional data that often r
 ### 🛠️ Tools Used:
 **Microsoft Excel:** Primary tool for data processing and visualization.  
 **Pivot Tables & KPI Metrics:** Used for data summarization and performance tracking.  
-### 📊 Dataset & Methods:  
-**Data Source:** Cafe Sector Dataset containing raw transaction records.  
-**Methodology:**  
+### 📊 Methods:  
 **ETL:** Data cleaning and structuring within Excel.  
 **Analysis:** Calculation of CAGR-based monthly growth rates and time-based performance deep dives.  
 **Design:** Creation of an interactive dashboard focusing on trend analysis and category-wise metrics.  
