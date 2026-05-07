@@ -3,10 +3,10 @@
 ## 1. 🛒 Super Store Sales & Forecasting Dashboard
 A comprehensive Business Intelligence solution that transforms historical sales data into actionable strategies and 15-day revenue forecasts.
 ### 🖼️ Visual Preview:
-**Super Store Sales Analysis**
-<img width="1288" height="725" alt="Super Store Sales Dashboard" src="https://github.com/user-attachments/assets/11ab525f-69f3-4692-952a-edcc805c5ddf" />
-**Super Store Sales Forecast**
-<img width="1288" height="725" alt="Super Store Sales Forecast" src="https://github.com/user-attachments/assets/91746fd4-e364-4b53-99d0-782ff687c9f1" />
+**Sales Performance Overview**
+<img width="1288" height="725" alt="Superstore Sales Overview" src="https://github.com/user-attachments/assets/36479de8-7651-447c-8165-0d0b473c8c1a" />
+**Predictive Sales Forecasting**
+<img width="1288" height="725" alt="Superstore Predictive Forecasting" src="https://github.com/user-attachments/assets/cc3c3577-f908-4834-b81a-a5fca428481b" />
 ### 🎯 Problem Statement & Objective:
 Businesses often struggle to identify hidden sales patterns and profit leakages within large datasets. The objective of this project was to create a dashboard that not only visualizes past performance—analyzing $1.6M in sales—but also prepares the business for future trends through time-series forecasting.
 ### 🛠️ Tools Used:
@@ -31,8 +31,8 @@ Businesses often struggle to identify hidden sales patterns and profit leakages 
 ## 2. 🛒 E-Commerce Sales BI Dashboard
 An interactive Business Intelligence solution designed to track seasonal trends, regional performance, and product profitability to guide strategic inventory and pricing decisions.  
 ### 🖼️ Visual Preview:
-**Ecommerce Sales Analysis**
-<img width="1400" height="787" alt="Ecommerce Sales Dashboard" src="https://github.com/user-attachments/assets/496719cf-dbd3-4e4f-843e-8c656c55aadf" />
+**E-commerce BI Dashboard Preview**
+<img width="1400" height="787" alt="Ecommerce Analytics Preview" src="https://github.com/user-attachments/assets/379bc9a5-e1cb-4a66-a27e-5a39c4c85ddb" />
 ### 🎯 Problem Statement & Objective:
 E-commerce businesses often face profit volatility and struggle to align quantity sold with actual profit margins. This project was developed to identify seasonal fluctuations—such as the dip in profitability during May—and to provide a clear view of regional leaders and payment preferences for smarter resource allocation.
 ### 🛠️ Tools Used:
@@ -55,8 +55,8 @@ E-commerce businesses often face profit volatility and struggle to align quantit
 ## 3. ☕ Coffee Shop Sales Analysis
 An interactive analytical solution that transforms raw transaction data into actionable insights to optimize operational decisions and understand customer behavior.
 ### 🖼️ Visual Preview:
-**Coffee Shop Sales Dashboard**
-<img width="1503" height="671" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/d460569f-7753-4dd2-afe1-fcb9c4a13cd2" />
+**Coffee Shop Sales Performance Dashboard**
+<img width="1503" height="671" alt="Coffee Shop Sales Preview" src="https://github.com/user-attachments/assets/ed2bfdab-a254-45ac-bdff-9034b7f73c7e" />
 ### 🎯 Problem Statement & Objective:
 Coffee shop businesses often struggle to interpret high-volume transaction data to identify peak hours and underperforming segments. This project aims to bridge that gap by building a dynamic dashboard that visualizes sales performance, footfall trends, and customer behavior metrics to support data-driven business decisions.
 ### 🛠️ Tools Used:
@@ -78,11 +78,11 @@ Coffee shop businesses often struggle to interpret high-volume transaction data 
 **Email:** [mraza28067@gmail.com]  
 **WhatsApp:** [+92-336-1890356]
 
-## 4. ☕ 365 Coffee Sales Analytics
+## 4. ☕ 365 Coffee Sales Analytics 
 This interactive dashboard transforms raw transactional data into actionable business insights to drive operational efficiency and growth.
 ### 🖼️ Visual Preview: 
-**365 Coffee Cafe Dashboard**  
-<img width="1549" height="810" alt="365 Coffee Cafe Analytics" src="https://github.com/user-attachments/assets/2441efde-8fbf-419d-82f1-141247ecccee" />
+**365 Coffee Cafe Dashboard Preview**  
+<img width="1549" height="810" alt="Coffee Cafe Dashboard Preview" src="https://github.com/user-attachments/assets/8fad3eac-27b3-4a44-872f-a24951444b51" />
 ### 🎯 Problem Statement & Objective:
 The cafe sector generates massive amounts of raw transactional data that often remains underutilized[cite: 1]. The objective of this project was to analyze sales patterns, identify peak operational hours, and evaluate product category performance to turn business data into decision-ready visuals.
 ### 🛠️ Tools Used:
