@@ -9,7 +9,7 @@ A comprehensive Business Intelligence solution that transforms historical sales 
 <img width="1288" height="725" alt="Superstore Predictive Forecasting" src="https://github.com/user-attachments/assets/cc3c3577-f908-4834-b81a-a5fca428481b" />
 ### 🎯 Problem Statement & Objective:
 Businesses often struggle to identify hidden sales patterns and profit leakages within large datasets. The objective of this project was to create a dashboard that not only visualizes past performance—analyzing $1.6M in sales—but also prepares the business for future trends through time-series forecasting.
-### 🛠️ Tools Used:
+### 🚀 Tools Used:
 **Power BI:** Primary tool used for building the comprehensive BI dashboard and dark-themed UI.  
 **Time Series Forecasting:** Utilized for predicting sales trends to assist in inventory planning.  
 **Interactive Filters:** Implemented for Region and Category deep-dives.
@@ -35,7 +35,7 @@ An interactive Business Intelligence solution designed to track seasonal trends,
 <img width="1400" height="787" alt="Ecommerce Analytics Preview" src="https://github.com/user-attachments/assets/379bc9a5-e1cb-4a66-a27e-5a39c4c85ddb" />
 ### 🎯 Problem Statement & Objective:
 E-commerce businesses often face profit volatility and struggle to align quantity sold with actual profit margins. This project was developed to identify seasonal fluctuations—such as the dip in profitability during May—and to provide a clear view of regional leaders and payment preferences for smarter resource allocation.
-### 🛠️ Tools Used:
+### 🚀 Tools Used:
 **Power BI:** Primary tool for data modeling and interactive visualization.  
 **Calculated Measures:** Developed custom KPIs including Profit and Average Order Value (AOV).  
 **Data Slicers:** Implemented dynamic filters for Quarters and States to allow for granular analysis.  
@@ -60,7 +60,7 @@ An interactive analytical solution that transforms raw transaction data into act
 <img width="1503" height="671" alt="Coffee Shop Sales Preview" src="https://github.com/user-attachments/assets/ed2bfdab-a254-45ac-bdff-9034b7f73c7e" />
 ### 🎯 Problem Statement & Objective:
 Coffee shop businesses often struggle to interpret high-volume transaction data to identify peak hours and underperforming segments. This project aims to bridge that gap by building a dynamic dashboard that visualizes sales performance, footfall trends, and customer behavior metrics to support data-driven business decisions.
-### 🛠️ Tools Used:
+### 🚀 Tools Used:
 **Microsoft Excel:** Main platform for the interactive dashboard and visualization.  
 **Power Query Editor:** Used for robust data connection and automated cleaning.  
 **Power Pivot:** Leveraged to enhance the data modeling workflow.  
@@ -87,33 +87,14 @@ This interactive dashboard transforms raw transactional data into actionable bus
 <img width="1549" height="810" alt="Coffee Cafe Dashboard Preview" src="https://github.com/user-attachments/assets/8fad3eac-27b3-4a44-872f-a24951444b51" />
 ### 🎯 Problem Statement & Objective:
 The cafe sector generates massive amounts of raw transactional data that often remains underutilized[cite: 1]. The objective of this project was to analyze sales patterns, identify peak operational hours, and evaluate product category performance to turn business data into decision-ready visuals.
-### 🛠️ Tools Used:
+### 🚀 Tools Used:
 **Microsoft Excel:** Primary tool for data processing and visualization.  
 **Pivot Tables & KPI Metrics:** Used for data summarization and performance tracking.  
 ###  🛠️ Methodology & Workflow:  
 **Data Context:** Analyzed a publicly sourced Open-Source Cafe Sector dataset containing 20,000+ raw transaction records, including sales timestamps, product categories, and store locations.  
 **Data Cleaning (ETL):** Performed end-to-end data preparation in Microsoft Excel, including handling missing values, standardizing formats, and structuring data for pivot-ready analysis.  
-**Analytical Approach:**  
-**Time-Series Analysis:** Identified peak operational hours and seasonal trends.  
-**Financial Modeling:** Applied CAGR-based formulas to measure monthly growth rates.  
-**Category Segmentation:** Isolated top-performing vs. underperforming products to optimize inventory.  
+**Analytical Approach:** Executed **Time-Series Analysis** to identify peak operational hours, applied **CAGR-based formulas** to measure monthly growth rates, and performed **Category Segmentation** to isolate top-performing products and optimize inventory insights. 
 **Visualization & Design:** Developed a stakeholder-centric interactive dashboard focusing on trend scannability and high-impact KPIs.
-### 🛠️ Dataset & Methods
-**Data Context**
-Analyzed a publicly sourced **Open-Source Cafe Sector dataset** containing **20,000+ raw transaction records**, including sales timestamps, product categories, and store locations.
-**Data Cleaning (ETL)**
-Performed end-to-end data preparation in **Microsoft Excel**, including:
-*   Handling missing values and outliers.
-*   Standardizing date/time formats for accurate reporting.
-*   Structuring raw data for efficient **Pivot Table** analysis.
-**Analytical Approach**
-*   **Time-Series Analysis:** Executed to identify peak operational hours and seasonal sales trends.
-*   **Financial Growth Modeling:** Applied formulas to calculate **CAGR-based** monthly growth rates.
-*   **Category Segmentation:** Performed deep dives to isolate top-performing vs. underperforming products.
-**Visualization & Design**
-Developed a **stakeholder-centric interactive dashboard** with a focus on:
-*   **Trend Scannability:** Making complex data easy to read at a glance.
-*   **KPI Tracking:** Highlighting essential metrics like total revenue, average order value, and growth % targets.
 ### 💡 Key Insights & Business Impact:  
 **Sustainable Growth:** The business exhibits a positive upward trend with a 15.31% CAGR-based monthly growth rate.  
 **Operational Optimization:** Identified 7:00 AM to 10:00 AM as the peak activity window, representing the highest transaction volume.  
