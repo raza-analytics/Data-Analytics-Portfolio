@@ -8,22 +8,22 @@ A comprehensive Business Intelligence solution that transforms historical sales 
 **Predictive Sales Forecasting**
 <img width="1288" height="725" alt="Superstore Predictive Forecasting" src="https://github.com/user-attachments/assets/cc3c3577-f908-4834-b81a-a5fca428481b" />
 ### 🎯 Problem Statement & Objective:
-Businesses often struggle to identify hidden sales patterns and profit leakages within large datasets. The objective of this project was to create a dashboard that not only visualizes past performance—analyzing $1.6M in sales—but also prepares the business for future trends through time-series forecasting.
+Businesses often struggle to identify hidden sales patterns and profit leakages within large datasets. The objective of this project was to create a dashboard that not only visualizes past performance—analyzing **$1.6M** in sales—but also prepares the business for future trends through **time-series forecasting.**
 ### 🚀 Tools Used:
 **Power BI:** Primary tool used for building the comprehensive BI dashboard and dark-themed UI.  
 **Time Series Forecasting:** Utilized for predicting sales trends to assist in inventory planning.  
 **Interactive Filters:** Implemented for Region and Category deep-dives.
 ### 🛠️ Methodology & Workflow:  
-**Data Context:** Analyzed an open-source retail dataset (22,000+ records) from 2019-2020.  
-**ETL & KPI Development:** Transformed raw data into executive-level metrics, ensuring data integrity and calculating KPIs like Average Shipping Time.  
-**Predictive Analytics:** Developed a 15-day sales forecast using time-series analysis to bridge the gap between descriptive and predictive reporting.  
+**Data Context:** Analyzed an open-source retail dataset **(22,000+ records)** from 2019-2020.  
+**ETL & KPI Development:** Transformed raw data into executive-level metrics, ensuring data integrity and calculating KPIs like **Average Shipping Time.**  
+**Predictive Analytics:** Developed a **15-day sales forecast** using **time-series analysis** to bridge the gap between descriptive and predictive reporting.  
 **Design Strategy:** Leveraged a clean, professional dark-themed layout optimized for stakeholder scannability and regional deep-dives.
 ### 💡 Key Insights & Business Impact:  
-**High-Level Performance:** Analyzed a total of $1.6M in Sales and $175K in Profit.  
-**Geographic Strengths:** Identified California as the leading state with $0.34M in sales.  
-**Segment Trends:** The Consumer Segment drives 48% of the business volume.  
-**Payment Preferences:** Cash on Delivery (COD) is the most preferred method at 43%.  
-**Category Leaders:** Office Supplies lead in overall volume ($0.64M), while Phones and Chairs drive the most sub-category revenue.
+**High-Level Performance:** Analyzed a total of **$1.6M in Sales** and **$175K in Profit.**  
+**Geographic Strengths:** Identified **California** as the leading state with **$0.34M** in sales.  
+**Segment Trends:** The Consumer Segment drives **48%** of the business volume.  
+**Payment Preferences:** **Cash on Delivery (COD)** is the most preferred method at **43%.**  
+**Category Leaders:** Office Supplies lead in overall volume **($0.64M),** while Phones and Chairs drive the most sub-category revenue.
 ### 📥 Contact:
 **Email:** [mraza28067@gmail.com]  
 **WhatsApp:** [+92-336-1890356]
