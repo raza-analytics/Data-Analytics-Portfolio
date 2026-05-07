@@ -29,7 +29,7 @@ Businesses often struggle to identify hidden sales patterns and profit leakages 
 **WhatsApp:** [+92-336-1890356]
 
 ## 2. 🛒 E-Commerce Sales BI Dashboard
-An interactive Business Intelligence solution designed to track **seasonal trends, regional performance, and product profitability** to guide **strategic inventory and pricing decisions.**  
+An interactive Business Intelligence solution designed to track **seasonal trends, regional performance,** and **product profitability** to guide **strategic inventory** and **pricing decisions.**  
 ### 🖼️ Visual Preview:
 **E-commerce BI Dashboard Preview**
 <img width="1400" height="787" alt="Ecommerce Analytics Preview" src="https://github.com/user-attachments/assets/379bc9a5-e1cb-4a66-a27e-5a39c4c85ddb" />
