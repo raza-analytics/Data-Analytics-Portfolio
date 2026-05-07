@@ -73,7 +73,7 @@ Coffee shop businesses often struggle to interpret high-volume transaction data 
 ### 💡 Key Insights & Business Impact:
 **Financial Health:** Achieved **$698K in Total Sales** with a total footfall of **149K customers.**  
 **Customer Spending:** Identified an **Average Bill per Person of $4.69** and an average of **1.44 orders** per person.  
-**Peak Operations:** Pinpointed the **8 AM – 10 AM* morning rush as the peak order time.  
+**Peak Operations:** Pinpointed the **8 AM – 10 AM** morning rush as the peak order time.  
 **Product Performance:** **Barista Espresso** emerged as the top-selling product, while **Coffee & Tea** was the highest revenue category.  
 **Upselling Opportunity:** Identified that **Saturday** is the lowest sales day and average orders are below expectations, suggesting a need for targeted upselling strategies.  
 ### 📥 Contact:
