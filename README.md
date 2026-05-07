@@ -45,7 +45,7 @@ E-commerce businesses often face profit volatility and struggle to align quantit
 **Advanced Analytics:** Developed custom **DAX measures** for key metrics like **Profit Margins** and **Average Order Value (AOV).**  
 **Visual Storytelling:** Applied diverse charting techniques **(Donut, Line/Area, and Geographic Maps)** to highlight **regional trends** and **performance.**  
 ### 💡 Key Insights & Business Impact:
-**Profit Volatility:** Identified a significant seasonal gap, with a **peak profit of $10.3K in November** contrasted against a **loss of -$3.7K in May.**  
+**Profit Volatility:** Identified a significant seasonal gap, with a peak profit of **$10.3K in November** contrasted against a loss of **-$3.7K in May.**  
 **Regional Powerhouses:** **Maharashtra ($102K)** and **Madhya Pradesh ($87K)** were identified as the top revenue-contributing states.  
 **Profitability Gap:** While Clothing accounted for **63% of quantity sold,** high-margin products like **Printers ($8.6K profit)** and **Bookcases ($6.5K profit)** were identified as the true profitability drivers.  
 **Consumer Trust:** Data revealed that **44% of customers prefer Cash on Delivery,** highlighting a specific trust pattern compared to the **21% using UPI.**  
