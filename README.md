@@ -13,11 +13,11 @@ Businesses often struggle to identify hidden sales patterns and profit leakages 
 **Power BI:** Primary tool used for building the comprehensive BI dashboard and dark-themed UI.  
 **Time Series Forecasting:** Utilized for predicting sales trends to assist in inventory planning.  
 **Interactive Filters:** Implemented for Region and Category deep-dives.
-### 📊 Dataset & Methods:  
-**Data Source:** Historical business data from 2019-2020 covering 22K orders.  
-**ETL & Modeling:** Processed raw numbers into executive metrics, including a focus on Average Shipping Time (4 days).  
-**Forecasting:** Developed a 15-day sales forecast model to move from descriptive to predictive analytics.  
-**Design:** Focused on a clean, professional dark-themed layout optimized for stakeholder scannability.
+### 🛠️ Methodology & Workflow:  
+**Data Context:** Analyzed an open-source retail dataset (22,000+ records) from 2019-2020.  
+**ETL & KPI Development:** Transformed raw data into executive-level metrics, ensuring data integrity and calculating KPIs like Average Shipping Time.  
+**Predictive Analytics:** Developed a 15-day sales forecast using time-series analysis to bridge the gap between descriptive and predictive reporting.  
+**Design Strategy:** Leveraged a clean, professional dark-themed layout optimized for stakeholder scannability and regional deep-dives.
 ### 💡 Key Insights & Business Impact:  
 **High-Level Performance:** Analyzed a total of $1.6M in Sales and $175K in Profit.  
 **Geographic Strengths:** Identified California as the leading state with $0.34M in sales.  
@@ -39,10 +39,11 @@ E-commerce businesses often face profit volatility and struggle to align quantit
 **Power BI:** Primary tool for data modeling and interactive visualization.  
 **Calculated Measures:** Developed custom KPIs including Profit and Average Order Value (AOV).  
 **Data Slicers:** Implemented dynamic filters for Quarters and States to allow for granular analysis.  
-### 📊 Dataset & Methods:
-**Data Modeling:** Established structured table relationships and joins to ensure data integrity.  
-**ETL Workflow:** Conducted an end-to-end BI workflow involving data cleaning, modeling, and strategic visualization.  
-**Visual Techniques:** Applied a variety of charts, including Donut, Clustered Bar, Line/Area charts, and Geographic maps for regional tracking.  
+### 🛠️ Methodology & Workflow: 
+**Data Context:** Analyzed an open-source E-commerce dataset containing transactional records (Sales, Profit, Quantity, and Payment Modes) across various regions.
+**ETL & Modeling:** Established structured table relationships and cleaned raw records in Power BI to ensure data integrity.
+**Advanced Analytics:** Developed custom DAX measures for key metrics like Profit Margins and Average Order Value (AOV).
+**Visual Storytelling:** Applied diverse charting techniques (Donut, Line/Area, and Geographic Maps) to highlight regional trends and performance.
 ### 💡 Key Insights & Business Impact:
 **Profit Volatility:** Identified a significant seasonal gap, with a peak profit of $10.3K in November contrasted against a loss of -$3.7K in May.  
 **Regional Powerhouses:** Maharashtra ($102K) and Madhya Pradesh ($87K) were identified as the top revenue-contributing states.  
@@ -63,11 +64,12 @@ Coffee shop businesses often struggle to interpret high-volume transaction data 
 **Microsoft Excel:** Main platform for the interactive dashboard and visualization.  
 **Power Query Editor:** Used for robust data connection and automated cleaning.  
 **Power Pivot:** Leveraged to enhance the data modeling workflow.  
-**Excel Developer Tools:** Utilized for advanced interactivity and dashboard features.
-### 📊 Dataset & Methods: 
-**Data Cleaning:** Used Power Query to remove unnecessary white spaces and handle data transformations.  
-**Workflow:** Executed the complete Data Analytics Workflow, moving from raw transaction data to cleaned tables and finally to a dynamic visual layer.  
-**Visualization:** Implemented a variety of charts (Line, Bar, Clustered Column, and Pie) to represent different business dimensions.  
+**Excel Developer Tools:** Utilized for advanced interactivity and dashboard features.  
+### 🛠️ Methodology & Workflow:  
+**Data Context:** Analyzed a publicly available retail dataset containing over 149K transaction records, including sales figures, timestamps, and product categories.  
+**Data Cleaning (ETL):** Utilized Power Query Editor to connect to raw data, remove unnecessary white spaces, and handle data transformations to ensure accuracy.  
+**Data Modeling:** Leveraged Power Pivot to create structured table relationships and manage complex data calculations efficiently.  
+**Visualization & Design:** Built a dynamic visual layer using Line, Bar, and Clustered Column charts to identify seasonal trends and high-growth product categories.
 ### 💡 Key Insights & Business Impact:
 **Financial Health:** Achieved $698K in Total Sales with a total footfall of 149K customers.  
 **Customer Spending:** Identified an Average Bill per Person of $4.69 and an average of 1.44 orders per person.  
@@ -88,11 +90,30 @@ The cafe sector generates massive amounts of raw transactional data that often r
 ### 🛠️ Tools Used:
 **Microsoft Excel:** Primary tool for data processing and visualization.  
 **Pivot Tables & KPI Metrics:** Used for data summarization and performance tracking.  
-### 📊 Dataset & Methods: 
-**Data Source:** Cafe Sector Dataset containing raw transaction records.  
-**ETL:** Data cleaning and structuring within Excel.  
-**Analysis:** Calculation of CAGR-based monthly growth rates and time-based performance deep dives.  
-**Design:** Creation of an interactive dashboard focusing on trend analysis and category-wise metrics.  
+###  🛠️ Methodology & Workflow:
+**Data Context:** Analyzed a publicly sourced Open-Source Cafe Sector dataset containing 20,000+ raw transaction records, including sales timestamps, product categories, and store locations.
+**Data Cleaning (ETL):** Performed end-to-end data preparation in Microsoft Excel, including handling missing values, standardizing formats, and structuring data for pivot-ready analysis.
+**Analytical Approach:**
+**Time-Series Analysis:** Identified peak operational hours and seasonal trends.
+**Financial Modeling:** Applied CAGR-based formulas to measure monthly growth rates.
+**Category Segmentation:** Isolated top-performing vs. underperforming products to optimize inventory.
+**Visualization & Design:** Developed a stakeholder-centric interactive dashboard focusing on trend scannability and high-impact KPIs.
+### 🛠️ Methodology & Workflow:
+**Data Context**
+Analyzed a publicly sourced **Open-Source Cafe Sector dataset** containing **20,000+ raw transaction records**, including sales timestamps, product categories, and store locations.
+**Data Cleaning (ETL)**
+Performed end-to-end data preparation in **Microsoft Excel**, including:
+*   Handling missing values and outliers.
+*   Standardizing date/time formats for accurate reporting.
+*   Structuring raw data for efficient **Pivot Table** analysis.
+**Analytical Approach**
+*   **Time-Series Analysis:** Executed to identify peak operational hours and seasonal sales trends.
+*   **Financial Growth Modeling:** Applied formulas to calculate **CAGR-based** monthly growth rates.
+*   **Category Segmentation:** Performed deep dives to isolate top-performing vs. underperforming products.
+**Visualization & Design**
+Developed a **stakeholder-centric interactive dashboard** with a focus on:
+*   **Trend Scannability:** Making complex data easy to read at a glance.
+*   **KPI Tracking:** Highlighting essential metrics like total revenue, average order value, and growth % targets.
 ### 💡 Key Insights & Business Impact:  
 **Sustainable Growth:** The business exhibits a positive upward trend with a 15.31% CAGR-based monthly growth rate.  
 **Operational Optimization:** Identified 7:00 AM to 10:00 AM as the peak activity window, representing the highest transaction volume.  
