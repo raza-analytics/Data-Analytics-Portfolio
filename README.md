@@ -40,10 +40,10 @@ E-commerce businesses often face profit volatility and struggle to align quantit
 **Calculated Measures:** Developed custom KPIs including **Profit** and **Average Order Value (AOV).**  
 **Data Slicers:** Implemented **dynamic filters** for Quarters and States to allow for granular analysis.  
 ### 🛠️ Methodology & Workflow: 
-**Data Context:** Analyzed an open-source E-commerce dataset containing transactional records **(Sales, Profit, Quantity, and Payment Modes)** across various regions.
-**ETL & Modeling:** Established structured table relationships and cleaned raw records in **Power BI** to ensure data integrity.
-**Advanced Analytics:** Developed custom **DAX measures** for key metrics like **Profit Margins** and **Average Order Value (AOV).**
-**Visual Storytelling:** Applied diverse charting techniques **(Donut, Line/Area, and Geographic Maps)** to highlight **regional trends** and **performance.**
+**Data Context:** Analyzed an open-source E-commerce dataset containing transactional records **(Sales, Profit, Quantity, and Payment Modes)** across various regions.  
+**ETL & Modeling:** Established structured table relationships and cleaned raw records in **Power BI** to ensure data integrity.  
+**Advanced Analytics:** Developed custom **DAX measures** for key metrics like **Profit Margins** and **Average Order Value (AOV).**  
+**Visual Storytelling:** Applied diverse charting techniques **(Donut, Line/Area, and Geographic Maps)** to highlight **regional trends** and **performance.**  
 ### 💡 Key Insights & Business Impact:
 **Profit Volatility:** Identified a significant seasonal gap, with a **peak profit of $10.3K in November** contrasted against a **loss of -$3.7K in May.**  
 **Regional Powerhouses:** **Maharashtra ($102K)** and **Madhya Pradesh ($87K)** were identified as the top revenue-contributing states.  
