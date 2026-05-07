@@ -90,15 +90,15 @@ The cafe sector generates massive amounts of raw transactional data that often r
 ### 🛠️ Tools Used:
 **Microsoft Excel:** Primary tool for data processing and visualization.  
 **Pivot Tables & KPI Metrics:** Used for data summarization and performance tracking.  
-###  🛠️ Methodology & Workflow:
-**Data Context:** Analyzed a publicly sourced Open-Source Cafe Sector dataset containing 20,000+ raw transaction records, including sales timestamps, product categories, and store locations.
-**Data Cleaning (ETL):** Performed end-to-end data preparation in Microsoft Excel, including handling missing values, standardizing formats, and structuring data for pivot-ready analysis.
-**Analytical Approach:**
-**Time-Series Analysis:** Identified peak operational hours and seasonal trends.
-**Financial Modeling:** Applied CAGR-based formulas to measure monthly growth rates.
-**Category Segmentation:** Isolated top-performing vs. underperforming products to optimize inventory.
+###  🛠️ Methodology & Workflow:  
+**Data Context:** Analyzed a publicly sourced Open-Source Cafe Sector dataset containing 20,000+ raw transaction records, including sales timestamps, product categories, and store locations.  
+**Data Cleaning (ETL):** Performed end-to-end data preparation in Microsoft Excel, including handling missing values, standardizing formats, and structuring data for pivot-ready analysis.  
+**Analytical Approach:**  
+**Time-Series Analysis:** Identified peak operational hours and seasonal trends.  
+**Financial Modeling:** Applied CAGR-based formulas to measure monthly growth rates.  
+**Category Segmentation:** Isolated top-performing vs. underperforming products to optimize inventory.  
 **Visualization & Design:** Developed a stakeholder-centric interactive dashboard focusing on trend scannability and high-impact KPIs.
-### 🛠️ Methodology & Workflow:
+### 🛠️ Dataset & Methods
 **Data Context**
 Analyzed a publicly sourced **Open-Source Cafe Sector dataset** containing **20,000+ raw transaction records**, including sales timestamps, product categories, and store locations.
 **Data Cleaning (ETL)**
